@@ -1,11 +1,11 @@
 package structural.bridge.remoteControl;
 
 import structural.bridge.devices.DeviceImplementation;
-import structural.bridge.devices.deviceImplementation;
+
 
 public class RemoteControlWithVolume extends RemoteControl {
 
-  private deviceImplementation device;
+  private DeviceImplementation device;
 
   public RemoteControlWithVolume(DeviceImplementation device){
     super(device);

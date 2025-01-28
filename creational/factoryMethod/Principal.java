@@ -2,9 +2,7 @@ package creational.factoryMethod;
 
 import creational.factoryMethod.factories.BicicletaFabrica;
 import creational.factoryMethod.factories.CarroFabrica;
-import creational.factoryMethod.factories.VeiculoFabrica;
 import creational.factoryMethod.util.NumerosRandons;
-import creational.factoryMethod.veiculos.Carro;
 import creational.factoryMethod.veiculos.InterfaceVeiculo;
 
 public class Principal {
